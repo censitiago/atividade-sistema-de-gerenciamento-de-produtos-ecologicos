@@ -1,0 +1,20 @@
+{
+  "name": "atividade-sistema-de-gerenciamento-de-produtos-ecologicos",
+  "version": "1.0.0",
+  "description": "- Explicação do exercício: \r Você desenvolverá um sistema de gerenciamento de produtos ecológicos utilizando apenas classes e interfaces simples e introdutórias em TypeScript.\r Este sistema permitirá que os usuários cadastrem e visualizem uma variedade de produtos sustentáveis, incluindo alimentos orgânicos, produtos de limpeza biodegradáveis, entre outros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/censitiago/atividade-sistema-de-gerenciamento-de-produtos-ecologicos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/censitiago/atividade-sistema-de-gerenciamento-de-produtos-ecologicos/issues"
+  },
+  "homepage": "https://github.com/censitiago/atividade-sistema-de-gerenciamento-de-produtos-ecologicos#readme"
+}
